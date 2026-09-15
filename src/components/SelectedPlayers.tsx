@@ -8,12 +8,16 @@ interface PlayerProps {
     player: Player;
     selectedPlayers: Player[];
     setSelectedPlayers: Dispatch<SetStateAction<Player[]>>
+    coin: number
+    setCoin: Dispatch<SetStateAction<number>>
 }
-const SelectedPlayers = ({ player, selectedPlayers, setSelectedPlayers }: PlayerProps) => {
+const SelectedPlayers = ({ player, selectedPlayers, setSelectedPlayers, coin, setCoin }: PlayerProps) => {
     const handleRemoveFromStack = (player: Player) => {
         const remainingPlayer = selectedPlayers.filter((selectedPlayer) => selectedPlayer.id !== player.id);
         setSelectedPlayers(remainingPlayer);
+        setCoin(coin + player.price);
         toast.success(`${player.name} removed successfully`);
+
     }
 
     return (
