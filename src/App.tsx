@@ -4,7 +4,7 @@ import Footer from './components/Footer'
 import Header from './components/Header'
 import Hero from './components/Hero'
 import Players from './components/Players'
-import type { Player } from './type/Player'
+import type { Player } from './type/player'
 
 const playersFetch = async (): Promise<Player[]> => {
   const res = await fetch("/data.json");

@@ -1,5 +1,5 @@
 import { use, useState, type Dispatch, type SetStateAction } from "react";
-import type { Player } from "../type/Player";
+import type { Player } from "../type/player";
 import PlayerCard from "./PlayerCard";
 import SelectedPlayers from "./SelectedPlayers";
 

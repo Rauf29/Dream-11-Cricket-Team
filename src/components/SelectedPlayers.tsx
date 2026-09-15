@@ -1,7 +1,8 @@
 import type { Dispatch, SetStateAction } from "react";
 import { RxCross2 } from "react-icons/rx";
 import { toast } from "react-toastify";
-import type { Player } from "../type/Player";
+import type { Player } from "../type/player";
+
 
 interface PlayerProps {
     player: Player;
