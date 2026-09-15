@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.8,
+    "price": 5000,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virat%20Kohli%20portrait.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Travis Head",
+    "country": "Australia",
+    "role": "Batter",
+    "bat": "Left Hand Bat",
+    "rating": 9.8,
+    "price": 4900,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Head%20cropped.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.5,
+    "price": 4500,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Babar%20Azam.png"
+  },
+  {
+    "id": 4,
+    "name": "Rinku Singh",
+    "country": "India",
+    "role": "Batter",
+    "bat": "Left Hand Bat",
+    "rating": 9.0,
+    "price": 3500,
+    "image": "https://img.ipl.com/upload/20241016/c190c535c9f93ab07287e2206ad4980d.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "bat": "Right Hand Bat",
+    "rating": 9.8,
+    "price": 4800,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rashid%20Khan.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shubman Gill",
+    "country": "India",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.7,
+    "price": 4800,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shubman%20Gill.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "bat": "Right Hand Bat",
+    "rating": 9.6,
+    "price": 4700,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Cummins.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.7,
+    "price": 4700,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe%20root.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rishabh Pant",
+    "country": "India",
+    "role": "Wicket-Keeper",
+    "bat": "Left Hand Bat",
+    "rating": 9.5,
+    "price": 4600,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rishabh%20Pant.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Heinrich Klaasen",
+    "country": "South Africa",
+    "role": "Wicket-Keeper",
+    "bat": "Right Hand Bat",
+    "rating": 9.6,
+    "price": 4600,
+    "image": "https://img.ipl.com/upload/20251220/075a41b932d23bdf70ca12be71d2a780.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "bat": "Right Hand Bat",
+    "rating": 9.9,
+    "price": 5000,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jasprit%20Bumrah.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mitchell Santner",
+    "country": "New Zealand",
+    "role": "All-Rounder",
+    "bat": "Left Hand Bat",
+    "rating": 9.3,
+    "price": 4000,
+    "image": "https://img.ipl.com/upload/20251104/37090e80ccf40b6ea3d7f9218434c6d9.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "bat": "Left Hand Bat",
+    "rating": 9.5,
+    "price": 4500,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaheen%20Afridi.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Yashasvi Jaiswal",
+    "country": "India",
+    "role": "Batter",
+    "bat": "Left Hand Bat",
+    "rating": 9.5,
+    "price": 4500,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yashasvi%20Jaiswal.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Tim Seifert",
+    "country": "New Zealand",
+    "role": "Wicket-Keeper",
+    "bat": "Right Hand Bat",
+    "rating": 9.1,
+    "price": 3500,
+    "image": "https://img.ipl.com/upload/20251104/77f7baecbc26ee4473496589f9ce093a.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "All-Rounder",
+    "bat": "Right Hand Bat",
+    "rating": 9.4,
+    "price": 4500,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hardik%20Pandya%20in%20PMO%20New%20Delhi.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Harry Brook",
+    "country": "England",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.7,
+    "price": 4700,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Brook%20County%20cricket%20cropped.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Azmatullah Omarzai",
+    "country": "Afghanistan",
+    "role": "All-Rounder",
+    "bat": "Right Hand Bat",
+    "rating": 9.2,
+    "price": 4000,
+    "image": "https://img.ipl.com/upload/20251223/9b4c6866779191bc419b66c093b8fa02.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Suryakumar Yadav",
+    "country": "India",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.7,
+    "price": 4700,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suryakumar%20Yadav%20%281%29.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.6,
+    "price": 4500,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kane%20Williamson.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "role": "Wicket-Keeper",
+    "bat": "Right Hand Bat",
+    "rating": 9.3,
+    "price": 4300,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Rizwan.png"
+  },
+  {
+    "id": 22,
+    "name": "Tanzid Hasan",
+    "country": "Bangladesh",
+    "role": "Batter",
+    "bat": "Left Hand Bat",
+    "rating": 8.9,
+    "price": 3000,
+    "image": "https://img.ipl.com/upload/20251108/927825bf59921a3fd0fccea02b996113.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "bat": "Left Hand Bat",
+    "rating": 9.7,
+    "price": 4800,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitchell%20Starc.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "role": "All-Rounder",
+    "bat": "Left Hand Bat",
+    "rating": 9.4,
+    "price": 4500,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravindra%20Jadeja%20in%20PMO%20New%20Delhi.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Dewald Brevis",
+    "country": "South Africa",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.4,
+    "price": 4100,
+    "image": "https://img.ipl.com/upload/20251202/07a17c4566a1b79a6053fe4a20c89983.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Ishan Kishan",
+    "country": "India",
+    "role": "Wicket-Keeper",
+    "bat": "Left Hand Bat",
+    "rating": 9.9,
+    "price": 5000,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ishan%20Kishan.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Jofra Archer",
+    "country": "England",
+    "role": "Bowler",
+    "bat": "Right Hand Bat",
+    "rating": 9.3,
+    "price": 4200,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jofra%20Archer%20%281%29.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Mahedi Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "bat": "Right Hand Bat",
+    "rating": 8.9,
+    "price": 3100,
+    "image": "https://img.ipl.com/upload/20260122/e6eef0ae1161eff5d5bdd5a1a28bb87d.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.5,
+    "price": 4500,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Smith%20Cricketer.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "bat": "Left Hand Bat",
+    "rating": 9.3,
+    "price": 4000,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shakib%20Al%20Hasan%20%281%29.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Kuldeep Yadav",
+    "country": "India",
+    "role": "Bowler",
+    "bat": "Left Hand Bat",
+    "rating": 9.3,
+    "price": 4200,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuldeep%20Yadav%20in%20PMO%20New%20Delhi.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "bat": "Left Hand Bat",
+    "rating": 9.5,
+    "price": 4500,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben%20Stokes.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Josh Inglis",
+    "country": "Australia",
+    "role": "Wicket-Keeper",
+    "bat": "Right Hand Bat",
+    "rating": 9.2,
+    "price": 3900,
+    "image": "https://img.ipl.com/upload/20251224/4e319bf95e63b7e6cadcf407606a11dd.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Rachin Ravindra",
+    "country": "New Zealand",
+    "role": "All-Rounder",
+    "bat": "Left Hand Bat",
+    "rating": 9.4,
+    "price": 4200,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rachin%20Ravindra.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.7,
+    "price": 4800,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RohitSharma%20MumbaiIndians.png"
+  },
+  {
+    "id": 36,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "role": "Bowler",
+    "bat": "Right Hand Bat",
+    "rating": 9.5,
+    "price": 4400,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rabada.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Sanju Samson",
+    "country": "India",
+    "role": "Wicket-Keeper",
+    "bat": "Right Hand Bat",
+    "rating": 9.2,
+    "price": 3900,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanju.Samson.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Sikandar Raza",
+    "country": "Zimbabwe",
+    "role": "All-Rounder",
+    "bat": "Right Hand Bat",
+    "rating": 9.2,
+    "price": 3800,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sikandar%20Raza%202022.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Daryl Mitchell",
+    "country": "New Zealand",
+    "role": "All-Rounder",
+    "bat": "Right Hand Bat",
+    "rating": 9.6,
+    "price": 4500,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ujINhHGvJGTdYQA1oniAnjj2KqD9bb5l_brBDNU_XBVdpEVPbH-4ATh-glB-WyuYGdAhyJv9Fp_aI31UduocuMXNkmqRALyFbJ6uEw&s=10"
+  },
+  {
+    "id": 40,
+    "name": "Haris Rauf",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "bat": "Right Hand Bat",
+    "rating": 9.1,
+    "price": 3800,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haris-Rauf.png"
+  },
+  {
+    "id": 41,
+    "name": "Abhishek Sharma",
+    "country": "India",
+    "role": "All-Rounder",
+    "bat": "Left Hand Bat",
+    "rating": 9.8,
+    "price": 4900,
+    "image": "https://www.livemint.com/lm-img/img/2026/02/23/original/Abhishek_Sharma_1771820587627_1771820587779.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Aiden Markram",
+    "country": "South Africa",
+    "role": "All-Rounder",
+    "bat": "Right Hand Bat",
+    "rating": 9.3,
+    "price": 4100,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aiden%20Markram%20playing%20for%20South%20Africa.png"
+  },
+  {
+    "id": 43,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "bat": "Left Hand Bat",
+    "rating": 9.5,
+    "price": 4400,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trent%20Boult.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicket-Keeper",
+    "bat": "Right Hand Bat",
+    "rating": 9.5,
+    "price": 4400,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%20buttler.JPG"
+  },
+  {
+    "id": 45,
+    "name": "Marco Jansen",
+    "country": "South Africa",
+    "role": "All-Rounder",
+    "bat": "Left Hand Bat",
+    "rating": 9.2,
+    "price": 3900,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marco%20Jansen%202022.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Ibrahim Zadran",
+    "country": "Afghanistan",
+    "role": "Batter",
+    "bat": "Right Hand Bat",
+    "rating": 9.1,
+    "price": 3700,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ibrahim%20Zadran.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "All-Rounder",
+    "bat": "Right Hand Bat",
+    "rating": 9.4,
+    "price": 4300,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glenn%20Maxwell.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Tanzid Hasan",
+    "country": "Bangladesh",
+    "role": "Batter",
+    "bat": "Left Hand Bat",
+    "rating": 8.9,
+    "price": 3000,
+    "image": "https://img.ipl.com/upload/20251108/927825bf59921a3fd0fccea02b996113.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "bat": "Left Hand Bat",
+    "rating": 9.7,
+    "price": 4800,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20251224%20Mitchell%20Starc.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Rishad Hossain",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "bat": "Right Hand Bat",
+    "rating": 8.8,
+    "price": 3000,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rishad%20Hossain%2C%202025-02-08%20Fortune%20Barishal%20BPL%202025%20Champions%20Trophy%20Presentation%20Dhaka%20%28PID-0003668%29%20%28cropped%29.jpg"
+  }
+]
